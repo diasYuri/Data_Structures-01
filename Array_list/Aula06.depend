@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1612286178 source:c:\users\yuri\faculdade\estrutura de dados\tad lista\aula06\listacont.cpp
+	<iostream>
+	<cstdlib>
+	"Ponto.h"
+	"ListaCont.h"
+
+1525656607 c:\users\yuri\faculdade\estrutura de dados\tad lista\aula06\ponto.h
+	<cmath>
+
+1612286178 c:\users\yuri\faculdade\estrutura de dados\tad lista\aula06\listacont.h
+	"Ponto.h"
+
+1612358802 source:c:\users\yuri\faculdade\estrutura de dados\tad lista\aula06\main.cpp
+	<iostream>
+	"Ponto.h"
+	"ListaCont.h"
+	"listacont2.h"
+	"ListaPonto.h"
+
+1612276657 c:\users\yuri\faculdade\estrutura de dados\tad lista\aula06\listacont2.h
+
+1612277417 source:c:\users\yuri\faculdade\estrutura de dados\tad lista\aula06\listacont2.cpp
+	"listacont2.h"
+	<iostream>
+
+1612358869 source:c:\users\yuri\faculdade\estrutura de dados\tad lista\aula06\listaponto.cpp
+	"ListaPonto.h"
+	<iostream>
+	<cstdlib>
+	"Ponto.h"
+
+1612358074 c:\users\yuri\faculdade\estrutura de dados\tad lista\aula06\listaponto.h
+	"Ponto.h"
+
