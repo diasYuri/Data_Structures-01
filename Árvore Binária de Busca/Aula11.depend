@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1615903486 source:c:\users\yuri\faculdade\estrutura de dados\abb\main.cpp
+	<iostream>
+	"ArvBinBusca.h"
+
+1615904232 c:\users\yuri\faculdade\estrutura de dados\abb\arvbinbusca.h
+	"NoArv.h"
+
+1529888102 c:\users\yuri\faculdade\estrutura de dados\abb\noarv.h
+
+1615904347 source:c:\users\yuri\faculdade\estrutura de dados\abb\arvbinbusca.cpp
+	<iostream>
+	"ArvBinBusca.h"
+
+1616012012 source:c:\users\yuri\faculdade\estrutura de dados\abb\minha abb\main.cpp
+	<iostream>
+	"ArvBinBusca.h"
+	<math.h>
+
+1616011901 c:\users\yuri\faculdade\estrutura de dados\abb\minha abb\arvbinbusca.h
+	"NoArv.h"
+
+1529888102 c:\users\yuri\faculdade\estrutura de dados\abb\minha abb\noarv.h
+
+1616012099 source:c:\users\yuri\faculdade\estrutura de dados\abb\minha abb\arvbinbusca.cpp
+	<iostream>
+	"ArvBinBusca.h"
+	<math.h>
+
